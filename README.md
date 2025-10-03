@@ -1,23 +1,22 @@
 <div align="center">
 
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Ammad+Hamid;MERN+%26+Next.js+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%E2%9A%A1" alt="Typing SVG" />
 
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Ammad+Hamid;MERN+%26+Next.js+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%E2%9A%A1" alt="Typing SVG" />
 
-<!-- Profile Views & Social Badges -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=00FF41" width="100%"/>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ammadhamid&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ammadhamid&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
   <a href="https://twitter.com/ammaddevelop">
-    <img src="https://img.shields.io/twitter/follow/ammaddevelop?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/ammaddevelop?logo=twitter&style=for-the-badge&color=00acee&labelColor=000000&logoColor=00acee" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/ammadhamid/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000" alt="LinkedIn" />
   </a>
 </p>
 
-<!-- Snake Animation -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammadhamid/ammadhamid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammadhamid/ammadhamid/output/github-contribution-grid-snake.svg">
@@ -28,15 +27,34 @@
 
 ---
 
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-## 🎯 About Me
+<table>
+<tr>
+<td width="50%">
+
+<br>
+
+- 🔭 Currently working on **Straflo**
+- 🌱 Learning **Machine Learning, scikit-learn, Pandas & NumPy**
+- 👯 Open to collaborate on **MERN Stack & Next.js Projects**
+- 💬 Ask me about **Next.js, Node.js, MongoDB, Express.js**
+- 📫 Reach me: **ammadhamid721@gmail.com**
+- 🌐 Portfolio: **[mkhdigitalsolution.com/portfolio](https://mkhdigitalsolution.com/portfolio)**
+- ⚡ **Transforming ideas into elegant solutions through clean code**
+
+<br>
+
+</td>
+<td width="50%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-</div>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```typescript
 const ammadHamid = {
@@ -48,15 +66,9 @@ const ammadHamid = {
     
     learning: [
         "Machine Learning",
-        "scikit-learn",
+        "scikit-learn", 
         "Pandas & NumPy",
         "Data Science"
-    ],
-    
-    openToCollaborate: [
-        "MERN Stack Projects",
-        "Next.js Applications",
-        "Open Source Initiatives"
     ],
     
     expertise: [
@@ -66,60 +78,57 @@ const ammadHamid = {
         "RESTful APIs & GraphQL"
     ],
     
-    contact: {
-        email: "ammadhamid721@gmail.com",
-        portfolio: "mkhdigitalsolution.com/portfolio"
-    },
+    lifePhilosophy: "Transforming ideas into elegant solutions",
     
-    lifePhilosophy: "Transforming ideas into elegant solutions through clean code",
-    
-    dailyRoutine: function() {
-        while (this.isAlive) {
-            this.learn();
-            this.code();
-            this.build();
-            this.improve();
+    dailyRoutine: () => {
+        while (alive) {
+            learn();
+            code();
+            build();
+            repeat();
         }
     }
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Technology Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</p>
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Tools & Technologies
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
 
 </div>
 
@@ -127,34 +136,61 @@ const ammadHamid = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
-<img src="https://github-profile-trophy.vercel.app/?username=ammadhamid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=ammadhamid&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+
+</div>
 
 <details open>
-<summary><b>⚡ Performance Metrics</b></summary>
+<summary><h3><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Performance Metrics</h3></summary>
 <br>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammadhamid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammadhamid&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammadhamid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammadhamid&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🔥 Contribution Streak</b></summary>
+<summary><h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contribution Streak</h3></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammadhamid&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammadhamid&theme=algolia&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=00D9FF&currStreakNum=00FF41&dates=8B949E" alt="Streak Stats" />
 </p>
 </details>
 
 <details open>
-<summary><b>📈 Contribution Activity</b></summary>
+<summary><h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Contribution Activity</h3></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammadhamid&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6e96" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammadhamid&custom_title=Ammad's%20Contribution%20Graph&bg_color=0d1117&color=00FF41&line=00D9FF&point=00FF41&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 </details>
+
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+
+[![Authify](https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=Authify&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/ammadhamid/Authify)
+
+</div>
+</td>
+<td width="50%">
+<div align="center">
+
+[![YC Directory](https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=yc_directory&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/ammadhamid/yc_directory)
+
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,53 +198,37 @@ const ammadHamid = {
 
 <div align="center">
 
-## 🌟 Featured Projects
-
-<a href="https://github.com/ammadhamid/Authify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=Authify&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ammadhamid/yc_directory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=yc_directory&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect & Collaborate
 
 <a href="https://twitter.com/ammaddevelop">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00acee" />
 </a>
 <a href="https://linkedin.com/in/ammadhamid">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 </a>
 <a href="mailto:ammadhamid721@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 <a href="https://mkhdigitalsolution.com/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00FF41" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 💭 Developer Wisdom
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Developer Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&animation=grow_out_in&quoteCategory=programming" />
 
-### 📊 Weekly Development Breakdown
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%E2%9C%A8" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%E2%9C%A8;Connect+with+me+and+let's+innovate!+%F0%9F%92%A1" alt="Footer Typing SVG" />
 </p>
 
 <div align="center">
