@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Ammad+Hamid;MERN+%26+Next.js+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Ammad+Hamid;MERN+%26+Next.js+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%E2%9A%A1" alt="Typing SVG" />
 
 <!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
 
-<!-- Profile Views & Social Badges with Glow Effect -->
+<!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=ammadhamid&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://twitter.com/ammaddevelop">
@@ -17,7 +17,12 @@
   </a>
 </p>
 
-
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammadhamid/ammadhamid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammadhamid/ammadhamid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ammadhamid/ammadhamid/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -34,24 +39,46 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ```typescript
-const ammad = {
+const ammadHamid = {
     name: "Ammad Hamid",
-    role: "Full Stack Developer",
+    title: "Full Stack Developer",
     location: "Karachi, Pakistan 🇵🇰",
-    currentFocus: "Straflo 🔭",
-    learning: ["Machine Learning", "scikit-learn", "Pandas", "NumPy"],
-    openToCollaborate: ["MERN Stack", "Next.js", "Open Source"],
-    expertise: ["Next.js", "Node.js", "MongoDB", "Express.js"],
-    contact: "ammadhamid721@gmail.com",
-    portfolio: "mkhdigitalsolution.com/portfolio",
-    funFact: "I turn coffee ☕ into code, and bugs 🐛 into features!",
     
-    code: () => {
-        while (alive) {
-            eat();
-            sleep();
-            code();
-            repeat();
+    currentProject: "Straflo 🔭",
+    
+    learning: [
+        "Machine Learning",
+        "scikit-learn",
+        "Pandas & NumPy",
+        "Data Science"
+    ],
+    
+    openToCollaborate: [
+        "MERN Stack Projects",
+        "Next.js Applications",
+        "Open Source Initiatives"
+    ],
+    
+    expertise: [
+        "Next.js & React",
+        "Node.js & Express",
+        "MongoDB & PostgreSQL",
+        "RESTful APIs & GraphQL"
+    ],
+    
+    contact: {
+        email: "ammadhamid721@gmail.com",
+        portfolio: "mkhdigitalsolution.com/portfolio"
+    },
+    
+    lifePhilosophy: "Transforming ideas into elegant solutions through clean code",
+    
+    dailyRoutine: function() {
+        while (this.isAlive) {
+            this.learn();
+            this.code();
+            this.build();
+            this.improve();
         }
     }
 };
@@ -63,7 +90,7 @@ const ammad = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Stack
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -73,7 +100,7 @@ const ammad = {
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
-### Frontend Mastery
+### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,14 +108,14 @@ const ammad = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend Power
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -100,12 +127,12 @@ const ammad = {
 
 <div align="center">
 
-## 📊 GitHub Universe
+## 📊 GitHub Statistics
 
 <img src="https://github-profile-trophy.vercel.app/?username=ammadhamid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
 
 <details open>
-<summary><b>⚡ Stats Overview</b></summary>
+<summary><b>⚡ Performance Metrics</b></summary>
 <br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammadhamid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
@@ -114,7 +141,7 @@ const ammad = {
 </details>
 
 <details open>
-<summary><b>🔥 Streak Stats</b></summary>
+<summary><b>🔥 Contribution Streak</b></summary>
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ammadhamid&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff" alt="Streak Stats" />
@@ -122,7 +149,7 @@ const ammad = {
 </details>
 
 <details open>
-<summary><b>📈 Activity Graph</b></summary>
+<summary><b>📈 Contribution Activity</b></summary>
 <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammadhamid&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6e96" width="100%" alt="Activity Graph" />
@@ -140,7 +167,7 @@ const ammad = {
 <a href="https://github.com/ammadhamid/Authify">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=Authify&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
-<a href="[https://github.com/ammadhamid/yc_directory]">
+<a href="https://github.com/ammadhamid/yc_directory">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammadhamid&repo=yc_directory&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
@@ -150,7 +177,7 @@ const ammad = {
 
 <div align="center">
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect & Collaborate
 
 <a href="https://twitter.com/ammaddevelop">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -167,19 +194,21 @@ const ammad = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 💭 Random Dev Quote
+### 💭 Developer Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
-### ⚡ Fun Fact
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%E2%9C%A8" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%E2%9C%A8" alt="Footer Typing SVG" />
 </p>
 
 <div align="center">
